@@ -13,8 +13,8 @@ from selenium.common.exceptions import StaleElementReferenceException, NoSuchEle
 #---------------------------------------------------------------------------
 #CHANGE THIS PART ONLY
 #NOTE: Messages have to be marked as unread in the email
-EMAIL = "team@locationinc.co"
-PASSWORD = "611LhCFi5O4N"
+EMAIL = "email@email.com"
+PASSWORD = "password"
 SEARCH = "missed you at sfr"
 
 SEARCHLINK = SEARCH.replace(" ","+")
